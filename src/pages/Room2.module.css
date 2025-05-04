@@ -28,11 +28,11 @@ body, html {
     color: #c4a747;
     margin-bottom: 2rem;
     text-shadow: 
-      0 0 15px rgba(0, 0, 0, 0.8), /* Stronger dark shadow for depth */
-      0 0 30px rgba(0, 0, 0, 0.7), /* Larger dark shadow for contrast */
-      0 0 40px rgba(0, 0, 0, 0.6), /* Even more spread-out dark shadow */
-      0 0 50px rgba(196, 167, 71, 1), /* Strong glowing golden edge */
-      0 0 80px rgba(196, 167, 71, 0.7); /* Even stronger glowing golden edge */
+      0 0 15px rgba(0, 0, 0, 0.8), 
+      0 0 30px rgba(0, 0, 0, 0.7),
+      0 0 40px rgba(0, 0, 0, 0.6), 
+      0 0 50px rgba(196, 167, 71, 1), 
+      0 0 80px rgba(196, 167, 71, 0.7); 
   }
   
   
